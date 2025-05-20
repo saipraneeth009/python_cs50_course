@@ -1,0 +1,13 @@
+sets
+global variables
+constants
+type hints
+doc string
+argparse
+unpacking
+map
+list comprehension
+filter
+dictionary comprehension
+enumerate
+generator(yield and iterators)
